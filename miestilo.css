@@ -1,12 +1,14 @@
-body {
+/*body {
   padding-left: 5em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
   color: blue;
-  }
+  }*/
+
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif;
+  font-size: 12;
   color: red;
 }
 h2 {
